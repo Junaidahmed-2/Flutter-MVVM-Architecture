@@ -1,6 +1,6 @@
 # mvvm_example
 
-A new Flutter project.
+A flutter project which demonstrated flutter MVVM architecture.
 
 ## Getting Started
 
